@@ -1,6 +1,6 @@
 /*
  *
- * Classame SmallRing
+ * Classname SmallRing
  *
  *  06 June 2020
  *
