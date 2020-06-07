@@ -1,6 +1,6 @@
 /*
  *
- * Classame Panel
+ * Classname Panel
  *
  *  06 June 2020
  *
