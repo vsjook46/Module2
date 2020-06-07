@@ -1,6 +1,6 @@
 /*
 *
-* Classame Ring
+* Classname Ring
 *
 *  06 June 2020
 *
